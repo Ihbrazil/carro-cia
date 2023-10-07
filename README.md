@@ -1,2 +1,2 @@
 # carro-cia
- Exercício Devmedia Front-end Posicuinamento - position fixed
+ Exercício Devmedia Front-end Posicionamento - position fixed
